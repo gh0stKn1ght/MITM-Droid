@@ -8,6 +8,7 @@ Android<b>[Termux]</b> - ✔️ (rooted)<br>
 Windows - ❓ (wasn't tested, but should work)<br>
 MacOS - ❓ (wasn't tested)
 # Usage
+## For all platforms: replace <YOUR_MAC_ADDRESS> in the code with MAC of your attacker device.
 ## Linux | Android[Termux]
 ### Warning: you need to be root
 ```
